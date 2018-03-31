@@ -1,2 +1,6 @@
-# projeto3
-Projeto 3 - Programação Orientada a Objetos - Projeto de aplicação web para cálculo de amortização.
+# Projeto 03
+Projeto 3 - Programação Orientada a Objetos, projeto de aplicação web para <b>cálculo de amortização</b>.
+
+### Partícipes do grupo:
+* Andrey Antunes ([AndreyAntunes](https://github.com/AndreyAntunes))
+* Caio Bispo
