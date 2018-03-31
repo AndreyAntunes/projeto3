@@ -1,0 +1,53 @@
+<%-- any content can be specified here e.g.: --%>
+<%@ page pageEncoding="UTF-8" %>
+    <!-- Footer -->
+    <footer class="footer text-center">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-4 mb-5 mb-lg-0">
+            <h4 class="text-uppercase mb-4">Localização</h4>
+            <p class="lead mb-0">Rua dos Governantes, nº1811
+              <br>Canto do Forte - Praia Grande (SP)</p>
+          </div>
+          <div class="col-md-4 mb-5 mb-lg-0">
+            <h4 class="text-uppercase mb-4">Redes Sociais</h4>
+            <ul class="list-inline mb-0">
+              <li class="list-inline-item">
+                <a class="btn btn-outline-light btn-social text-center rounded-circle" href="https://www.facebook.com/">
+                  <i class="fa fa-fw fa-facebook"></i>
+                </a>
+              </li>
+              <li class="list-inline-item">
+                <a class="btn btn-outline-light btn-social text-center rounded-circle" href="https://accounts.google.com/signin/v2/identifier?flowName=GlifWebSignIn&flowEntry=ServiceLogin">
+                  <i class="fa fa-fw fa-google-plus"></i>
+                </a>
+              </li>
+              <li class="list-inline-item">
+                <a class="btn btn-outline-light btn-social text-center rounded-circle" href="https://twitter.com/">
+                  <i class="fa fa-fw fa-twitter"></i>
+                </a>
+              <li class="list-inline-item">
+                <a class="btn btn-outline-light btn-social text-center rounded-circle" href="https://br.linkedin.com/">
+                  <i class="fa fa-fw fa-linkedin"></i>
+                </a>
+              </li>
+            </ul>
+          </div>
+          <div class="col-md-4">
+            <h4 class="text-uppercase mb-4">Links</h4>
+            <div class="linksfooter">
+              <h6><a href="home.jsp">Início</a><br>
+              <a href="tabela-price.jsp">Tabela Price</a><br>
+              <a href="amortizacao-constante.jsp">Amortização Constante</a><br>
+              <a href="amortizacao-americana.jsp">Amortização Americana</a></h6>
+            </div>
+          </div>
+        </div>
+      </div>
+    </footer>
+    
+    <div class="copyright py-4 text-center text-white">
+      <div class="container">
+        <small>Copyright &copy; Amortizando 2018</small>
+      </div>
+    </div>    

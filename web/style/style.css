@@ -1,0 +1,31 @@
+#mainNav{
+    background-color: black;
+}
+
+.img-fluid{
+    width: 40%;
+    border: solid;
+    border-color: white;
+    border-radius: 25px;
+}
+
+.footer{
+    background-color: black !important;
+    padding-bottom: 0.2rem !important;
+}
+
+.copyright{
+    background-color: black !important;
+}
+
+.table{
+    background-color: #7fd1c1;
+}
+
+#corpoamericana{
+    background-color: #bbceca; 
+}
+
+#about{
+    padding-top: 3rem !important;
+}
