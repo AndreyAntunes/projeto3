@@ -9,6 +9,14 @@
     border-radius: 25px;
 }
 
+#cont1{
+    border-width: medium;
+    border-style: solid;
+    border-color: white;
+    padding-top: 1rem !important;
+    border-radius: 30px;
+}
+
 .footer{
     background-color: black !important;
     padding-bottom: 0.2rem !important;
@@ -22,8 +30,16 @@
     background-color: #7fd1c1;
 }
 
-#corpoamericana{
+#bodyamericana{
     background-color: #bbceca; 
+}
+
+#bodyconstante{
+    background-color: #bbceca; 
+}
+
+#bodyprice{
+    background-color: #bbceca;
 }
 
 #about{

@@ -1,5 +1,11 @@
+<%-- 
+    Document   : home
+    Created on : 30/03/2018, 04:57:12
+    Author     : Andrey Antunes
+--%>
+
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-br">
     
     <%@include file="WEB-INF/jspf/header.jspf" %>
     <%@include file="WEB-INF/jspf/menu.jspf" %>
@@ -13,9 +19,9 @@
         <hr class="star-light">
         <table>
             <tr>
-        <td><img class="img-fluid mb-5 d-block mx-auto" src="img/minhafoto.jpg" alt="">
+        <td><img class="img-fluid mb-5 d-block mx-auto" src="img/andrey.jpg" alt="">
         <h3>Andrey Antunes</h3>
-        <td><img class="img-fluid mb-5 d-block mx-auto" src="img/minhafoto.jpg" alt="">
+        <td><img class="img-fluid mb-5 d-block mx-auto" src="img/andrey.jpg" alt="">
         <h3>Andrey Antunes</h3>
             </tr>
         </table>
@@ -26,7 +32,7 @@
 
     <!-- Sobre -->
     <section class="bg-primary text-white mb-0" id="about">
-      <div class="container">
+      <div class="container" id="cont1">
         <h2 class="text-center text-uppercase text-white">Sobre Amortização</h2>
         <hr class="star-light mb-5">
         <div class="row">

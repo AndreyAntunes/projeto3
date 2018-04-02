@@ -8,8 +8,11 @@
     <meta name="author" content="">
 
     <title>Amortizando</title>
+    
+    <!-- Favicon -->
+    <link rel="shortcut icon" href="img/favicon.ico" />
 
-    <!-- Bootstrap core CSS -->
+    <!-- Bootstrap -->
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
     <link href="style/style.css" rel="stylesheet">
 
