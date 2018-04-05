@@ -17,16 +17,14 @@
       <div class="container">
         <h1 class="text-uppercase mb-0">Equipe</h1>
         <hr class="star-light">
-        <table>
-            <tr>
-        <td><img class="img-fluid mb-5 d-block mx-auto" src="img/andrey.jpg" alt="">
+        
+            
+        <img class="img-fluid mb-5 d-block mx-auto" src="img/andreyFormal&Elegante.jpg" alt="">
         <h3>Andrey Antunes</h3>
-        <td><img class="img-fluid mb-5 d-block mx-auto" src="img/andrey.jpg" alt="">
-        <h3>Andrey Antunes</h3>
-            </tr>
-        </table>
+            
+        
         <br>
-        <h3 class="font-weight-light mb-0">Estudantes de Análise e Desenvolvimento de Sistemas da Fatec de Praia Grande.</h3>
+        <h3 class="font-weight-light mb-0">Técnico em Informática e estudante de Análise e Desenvolvimento de Sistemas na Fatec de Praia Grande. <br>Estou aqui: <a href="https://www.linkedin.com/in/andreyantunes/" style="color: #0e1828;"><u>LinkedIn</u></a> e <a href="https://github.com/AndreyAntunes" style="color: #0e1828;"><u>GitHub</u></a></h3>
       </div>
     </header>
 

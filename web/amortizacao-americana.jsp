@@ -47,9 +47,9 @@
             }
         %>
         <center><form>
-           <h5>Dívida:</h5> <input type='number' step='0.01' min='1' name = 'divida' value = '<%=divida%>'/><br/><br>
-           <h5>Juros:</h5> <input type='number' step='0.01' min='1' name = 'juros' value = '<%=juros%>'/><br/><br>
-           <h5>Tempo*:</h5> <input type='number' step='0.01' min='1' name = 'tempo' value = '<%=tempo%>'/><br/>
+           <h5>Dívida:</h5> <input type='number' step='1' min='1' name = 'divida' value = '<%=divida%>'/><br/><br>
+           <h5>Juros:</h5> <input type='number' step='1' min='1' name = 'juros' value = '<%=juros%>'/><br/><br>
+           <h5>Tempo*:</h5> <input type='number' step='1' min='1' name = 'tempo' value = '<%=tempo%>'/><br/>
            <h6>*Tempo em meses</h6>
            <input type='submit' value ='Gerar'/><br/><br>
         </form></center>
